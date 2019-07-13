@@ -1,0 +1,43 @@
+        * {
+            margin: auto;
+            padding: auto;
+            box-sizing: border-box;
+        }
+        
+        header {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/1.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        .insert {
+            max-width: 1180px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        .insert form {
+            margin-top: 20%;
+            text-align: center;
+            color: whitesmoke;
+            font: 1em sans-serif;
+            font-size: 150%;
+            text-transform: uppercase;
+        }
+        
+        .but {
+            height: 40px;
+            width: 120px;
+        }
+        
+        .insert form h1 {
+            color: white;
+            background-color: transparent;
+            font-size: 200%;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            border: 1px solid burlywood;
+        }

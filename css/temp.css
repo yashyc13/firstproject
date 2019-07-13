@@ -1,0 +1,46 @@
+/* {
+      margin: auto;
+      padding: auto;
+      box-sizing: border-box;
+  }
+  
+  header {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/5.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      overflow: hidden;
+  }
+  
+  table {
+      display: table;
+      margin-top: -200px;
+      border-collapse: separate;
+      width: 75%;
+      color: #588c7e;
+      font-size: 25px;
+      border-block: 4px;
+      text-align: center;
+      border-color: blueviolet;
+  }
+  
+  th {
+      background-color: brown;
+      color: white;
+  }
+  
+  td {
+      color: white;
+  }
+  
+  h1 {
+      text-align: center;
+      color: antiquewhite;
+      margin-top: 200px;
+  }
+  
+  h2 {
+      text-align: center;
+      color: burlywood;
+  } */

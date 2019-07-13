@@ -1,0 +1,43 @@
+    * {
+        margin: auto;
+        padding: auto;
+        box-sizing: border-box;
+    }
+    
+    body {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/5.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: auto;
+    }
+    
+    table {
+        margin-top: -250px;
+        border: solid 0.5px;
+        border-collapse: separate;
+        width: 75%;
+        color: #588c7e;
+        font-size: 25px;
+        text-align: center;
+        border-color: blueviolet;
+    }
+    
+    th {
+        background-color: brown;
+        color: white;
+    }
+    
+    td {
+        color: white;
+    }
+    
+    h1 {
+        text-align: center;
+        color: antiquewhite;
+    }
+    
+    h2 {
+        text-align: center;
+        color: burlywood;
+    }
